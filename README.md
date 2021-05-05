@@ -1,5 +1,5 @@
-# Students-perceptions-of-privacy-for-learning-analytics-data-
-Questionnaire data for my master's thesis project.
+# Students perceptions of privacy for learning analytics (data)
+Questionnaire data from my master's thesis project.
 
 ## [complete.csv](https://github.com/Stianbot/Students-perceptions-of-privacy-for-learning-analytics-data-/blob/main/complete.csv)
 Contains the full questionnaire data with full questions and full textual representation of answers.
